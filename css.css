@@ -1,0 +1,14 @@
+
+
+header{
+    font-size: 400px;
+    color: green;
+}
+
+.button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    font-size: 200 px;
+    padding: 40px;
+    margin: 8px;
+}
